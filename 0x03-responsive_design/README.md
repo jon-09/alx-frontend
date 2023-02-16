@@ -1,1 +1,1 @@
-dir readme
+dir README
